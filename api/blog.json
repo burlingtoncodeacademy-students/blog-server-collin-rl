@@ -1,0 +1,26 @@
+[
+    {
+        "post_id": 1,
+        "title": "First Blog Post",
+        "author": "Paul Niemczyk",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 2,
+        "title": "Sebby",
+        "author": "Taylor",
+        "body": "I love Sebby in stardew :)"
+    },
+    {
+        "post_id": 3,
+        "title": "My First Blog Post",
+        "author": "Collin Letourneau",
+        "body": "My Girlfriend is obsessed with Stardew Valley ^"
+    },
+    {
+        "post_id": 4,
+        "title": "My Second Blog Post",
+        "author": "Collin Letourneau",
+        "body": "If you're reading this give me the best grade you can :3"
+    }
+]
